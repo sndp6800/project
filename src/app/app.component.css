@@ -1,0 +1,13 @@
+input.ng-invalid{
+    border-left: 10px solid red;
+}
+input.ng-valid{
+    border-left: 10px solid green;
+}
+.btn-space{
+    margin-right: 10px;
+}
+.highlighted{
+    outline: 3px solid #fd9696;
+    background-color: #fdfd96;
+}
